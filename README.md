@@ -6,7 +6,7 @@ To study and implement Recursion. <br>
 **Theory:** <br>
 In C++, recursion is executed through when a function calls itself. The concept itself is essentially the same as in other programming languages; the function ultimately calls itself with changed arguments consistently until a base case is reached at which point it will stop calling itself and begin returning results along the route of recursive calls.  <br>
 <br>
-_Properties of Recursion:_ <br>
+Properties of Recursion: <br>
 &#8594; _Base Case:_ Recursion stops when there is a condition. <br>
 &#8594; _Recursive Case_: It is a solution to sub problems through recursive call. <br>
 &#8594; _Call Stack:_ The modules that contain each separate function in memory. <br>
